@@ -1,9 +1,9 @@
 ### Hi there, I am Alex! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my Data Science Skills.
+- 🌱 I’m currently learning Time Series Analysis.
+- 👯 I’m looking to collaborate on Machine Learning Projects.
+- 🤔 I’m looking for help with Natural Language Processing for Native Languages.
 - 💬 Ask me about my favorite Math Theorem.
 - 📫 How to reach me: Email(alexandreyano@hotmail.com) | LinkedIn(https://www.linkedin.com/in/alexandreyano/)
 - 😄 Pronouns: He, him, his.
