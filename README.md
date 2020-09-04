@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Data Science Skills.
 - 🌱 I’m currently learning Time Series Analysis.
-- 👯 I’m looking to collaborate on Machine Learning Projects.
+- 👯 I’m looking forward to learn more and more about Deep Learning.
 - 🤔 I’m looking for help with Natural Language Processing for Native Languages.
 - 💬 Ask me about my favorite Math Theorem.
 - 📫 How to reach me: Email(alexandreyano@hotmail.com) | LinkedIn(https://www.linkedin.com/in/alexandreyano/)
