@@ -1,6 +1,6 @@
 ### Hi there, I am Alex! 👋
 
-- 🔭 I’m currently working on my Data Science Skills.
+- 🔭 I’m currently trying to get my first job as Data Scientist.
 - 🌱 I’m currently learning Time Series Analysis.
 - 👯 I’m looking forward to learn more and more about Deep Learning.
 - 🤔 I’m looking for help with Natural Language Processing for Native Languages.
