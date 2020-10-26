@@ -1,7 +1,7 @@
 ### Hi there, I am Alex! 👋
 
 - 🔭 I’m currently trying to get my first job as Data Scientist.
-- 🤔 I’m looking for help building tools to help save Native Languages of Angola.
+- 🤔 I’m looking for help building tools to help save the Native Languages of Angola.
 - 💬 Ask me about my favorite Math Theorem.
 - 📫 How to reach me: Email(alexandreyano@hotmail.com) | LinkedIn(https://www.linkedin.com/in/alexandreyano/)
 - 😄 Pronouns: He, him, his.
