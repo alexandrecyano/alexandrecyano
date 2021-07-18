@@ -1,6 +1,6 @@
 ### Hi there, I am Alex! 👋
 
-- 🔭 I’m currently trying to get my first job as Flutter Developer.
+- 🔭 Data Science| Mathematics | Sofware Development.
 - 🤔 I’m looking for help building tools to help save the Native Languages of Angola.
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/alexandreyano/)
 - 😄 Pronouns: He, him, his.
